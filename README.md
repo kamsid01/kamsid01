@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kam Sid </h1>
-## :technologist: About Me
+ <h3 align="left">:technologist:About Me:</h3>
 <div align="justify">
-  Full Stack Developer with a proven track record in building scalable applications. Adept at problem-solving and thriving on challenges, I consistently deliver high-quality code while adhering to project timelines. With expertise in both front-end and back-end technologies, I strive for better code quality and continuously seek ways to optimize performance. Vis
+  Full Stack Developer with a proven track record in building scalable applications. Adept at problem-solving and thriving on challenges, I consistently deliver high-quality code while adhering to project timelines. With expertise in both front-end and back-end technologies, I strive for better code quality and continuously seek ways to optimize performance. 
 </div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamsid01&label=Profile%20views&color=0e75b6&style=flat" alt="kamsid01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamsid01" alt="kamsid01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working as a **Full Stack Developer**
 
@@ -74,7 +69,7 @@
 <p align="center">
 <a href="https://github.com/kamsid01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamsid01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- </a>
+  </a>
 </p>
 
 
