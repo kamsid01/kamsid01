@@ -1,4 +1,4 @@
-# Kameron Sid - Full-Stack Developer
+# Kam Sid - Full-Stack Developer
 
 📍 **Location:** Spring, TX  
 
