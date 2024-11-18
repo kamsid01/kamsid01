@@ -1,93 +1,69 @@
-<h1 align="center">Hi 👋, I'm Kam Sid </h1>
- <h3 align="left">:technologist:About Me:</h3>
-<div align="justify">
-  Full Stack Developer with a proven track record in building scalable applications. Adept at problem-solving and thriving on challenges, I consistently deliver high-quality code while adhering to project timelines. With expertise in both front-end and back-end technologies, I strive for better code quality and continuously seek ways to optimize performance. 
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamsid01&label=Profile%20views&color=0e75b6&style=flat" alt="kamsid01" /> </p>
+# Kameron Sid - Full-Stack Developer
 
-- 🔭 I’m currently working as a **Full Stack Developer**
+📍 **Location:** Spring, TX  
+🌐 **Portfolio:** [bullseyehiringsolutions.com](https://bullseyehiringsolutions.com)  
 
-- 📫 How to reach me **kamran.siddiquii351@gmail.com**
+---
 
-- ⚡ Fun fact **I am a reader**
+## 🌟 About Me
 
+I am a **Full-Stack Developer** with over 7 years of experience in building high-quality, scalable web applications. My expertise spans both backend and frontend development, with a strong focus on modern frameworks, cloud services, and DevOps practices. I specialize in designing, developing, and deploying applications with clean, efficient code and automated CI/CD workflows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a>
- </p>
+I am passionate about **continuous learning**, solving complex challenges, and delivering user-focused software solutions.
 
-<b>GitHub Analytics</b>
-<br>
-<p align="center">
-<a href="https://github.com/kamsid01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamsid01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+---
 
+## 🛠 Tech Stack
 
-<h3 align="" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 5px;">Connect with me! </h3>
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
-<p align="center">
+### **Backend**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/kamsid01/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/kamsid01">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
 
-		
-				
-				
-				
-  
-  </div>
-  
-</p>
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
+
+---
+
+## 💼 Experience
+
+### **Full Stack Software Engineer**  
+**Full Stop Inc.** (2021 - Present)  
+- Developed a highly responsive web application using **Python/Django** and **React.js**, boosting user engagement by 30%.  
+- Directed a team to implement a microservices architecture on **AWS Lambda** and **API Gateway**, cutting infrastructure costs by 50%.  
+- Established a CI/CD pipeline with **Docker** and **Kubernetes**, reducing deployment times by 75%.  
+- Specialized in **RESTful API design**, caching strategies, and performance optimization.  
+- Practiced **Test-Driven Development (TDD)** and Agile methodologies.
+
+### **Senior Software Engineer**  
+**Tech Squad** (2019 - 2021)  
+- Built a large-scale e-commerce platform with **React.js**, **Python**, and **PostgreSQL**, leading to a 25% sales boost.  
+- Developed caching solutions using **Redis** and **Memcached**, cutting database load by 70%.  
+- Mentored junior developers, improving code quality by 50% and reducing bug reports by 20%.  
+
+### **Software Engineer**  
+**Gigster** (2018 - 2019)  
+- Supported the development of a social networking platform using **React.js**, enhancing user engagement.  
+- Optimized PostgreSQL database queries, reducing page load times by 50%.  
+- Collaborated with UX teams to design intuitive interfaces, increasing customer satisfaction by 20%.  
+
+---
+
+## 🌐 Work Portfolio
+
+- **[ABC](https://abc.com):** High-performance platform with [specific feature description].  
+- **[XYZ](https://zyx.io):** Transparent platform for impactful donations.  
+
+---
+
+## 🎯 Activities & Interests
+
+- Traveling  
+- Playing Chess  
+- Exploring New Technologies  
+- Soccer  
