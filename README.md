@@ -64,7 +64,7 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 
 ## 🎯 Activities & Interests
 
-- Traveling  
-- Playing Chess  
-- Exploring New Technologies  
-- Soccer  
+- 🌍 **Traveling**  
+- ♟️ **Playing Chess**  
+- 💡 **Exploring New Technologies**  
+- ⚽ **Soccer** 
