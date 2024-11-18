@@ -30,6 +30,23 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 
 ---
 
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamsid01&show_icons=true&theme=radical" alt="Kameron Sid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamsid01&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamsid01&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 💼 Experience
 
 ### **Full Stack Software Engineer**  
