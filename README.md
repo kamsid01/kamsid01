@@ -1,7 +1,6 @@
 # Kameron Sid - Full-Stack Developer
 
 📍 **Location:** Spring, TX  
-🌐 **Portfolio:** [bullseyehiringsolutions.com](https://bullseyehiringsolutions.com)  
 
 ---
 
@@ -39,14 +38,6 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamsid01&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💼 Experience
 
 ### **Full Stack Software Engineer**  
@@ -68,13 +59,6 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 - Supported the development of a social networking platform using **React.js**, enhancing user engagement.  
 - Optimized PostgreSQL database queries, reducing page load times by 50%.  
 - Collaborated with UX teams to design intuitive interfaces, increasing customer satisfaction by 20%.  
-
----
-
-## 🌐 Work Portfolio
-
-- **[ABC](https://abc.com):** High-performance platform with [specific feature description].  
-- **[XYZ](https://zyx.io):** Transparent platform for impactful donations.  
 
 ---
 
