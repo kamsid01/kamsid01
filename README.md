@@ -32,6 +32,8 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 ## 📊 GitHub Stats  
 
 <div align="center">
+  <img src="https://github-readme-stats-kamsid01s-projects.vercel.app/api?username=kamsid01&show_icons=true&theme=radical&count_private=true" alt="Kameron Sid's GitHub Stats" />
+  <img src="https://github-readme-stats-kamsid01s-projects.vercel.app/api/top-langs/?username=kamsid01&layout=compact&theme=radical&count_private=true&random=128" alt="Top Languages" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamsid01&show_icons=true&theme=radical&count_private=true" alt="Kameron Sid's GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamsid01&layout=compact&theme=radical&count_private=true&random=128" alt="Top Languages" />
 </div>
