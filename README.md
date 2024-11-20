@@ -32,8 +32,8 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats-git-main-kamsid01s-projects.vercel.app/api?username=kamsid01&show_icons=true&theme=transparent&count_private=true&hide=contribs&rando=0877" alt="Kameron Sid's GitHub Stats" />
-  <img src="https://github-readme-stats-git-main-kamsid01s-projects.vercel.app/api/top-langs?username=kamsid01&layout=compact&theme=transparent&count_private=true&langs_count=10&rando=2799" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-main-kamsid01s-projects.vercel.app/api?username=kamsid01&show_icons=true&theme=transparent&count_private=true&hide=contribs&rando=0877&hide_border=true" alt="Kameron Sid's GitHub Stats" />
+  <img src="https://github-readme-stats-git-main-kamsid01s-projects.vercel.app/api/top-langs?username=kamsid01&layout=compact&theme=transparent&count_private=true&langs_count=10&rando=2799&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -41,7 +41,7 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 ## 🔥 GitHub Streaks
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=kamsid01&theme=radical&hide_border=true"/>
+ <img src="https://streak-stats.demolab.com?user=kamsid01&theme=transparent&hide_border=true"/>
 </div>
 
 ---
