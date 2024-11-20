@@ -38,14 +38,6 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 
 ---
 
-## 🔥 GitHub Streaks
-
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=kamsid01&theme=transparent&hide_border=true"/>
-</div>
-
----
-
 ## 💼 Experience
 
 ### **Full Stack Software Engineer**  
