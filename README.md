@@ -40,7 +40,9 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 
 ## 🔥 GitHub Streaks
 
-![GitHub Streak](https://streak-stats.demolab.com?user=David-Henderson1&theme=radical&hide_border=true)
+<div align="center">
+ <img src="https://streak-stats.demolab.com?user=kamsid01&theme=radical&hide_border=true"/>
+</div>
 
 ---
 
