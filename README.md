@@ -38,30 +38,6 @@ I am passionate about **continuous learning**, solving complex challenges, and d
 
 ---
 
-## 💼 Experience
-
-### **Full Stack Software Engineer**  
-**Full Stop Inc.** (2021 - Present)  
-- Developed a highly responsive web application using **Python/Django** and **React.js**, boosting user engagement by 30%.  
-- Directed a team to implement a microservices architecture on **AWS Lambda** and **API Gateway**, cutting infrastructure costs by 50%.  
-- Established a CI/CD pipeline with **Docker** and **Kubernetes**, reducing deployment times by 75%.  
-- Specialized in **RESTful API design**, caching strategies, and performance optimization.  
-- Practiced **Test-Driven Development (TDD)** and Agile methodologies.
-
-### **Senior Software Engineer**  
-**Tech Squad** (2019 - 2021)  
-- Built a large-scale e-commerce platform with **React.js**, **Python**, and **PostgreSQL**, leading to a 25% sales boost.  
-- Developed caching solutions using **Redis** and **Memcached**, cutting database load by 70%.  
-- Mentored junior developers, improving code quality by 50% and reducing bug reports by 20%.  
-
-### **Software Engineer**  
-**Gigster** (2018 - 2019)  
-- Supported the development of a social networking platform using **React.js**, enhancing user engagement.  
-- Optimized PostgreSQL database queries, reducing page load times by 50%.  
-- Collaborated with UX teams to design intuitive interfaces, increasing customer satisfaction by 20%.  
-
----
-
 ## 🎯 Activities & Interests
 
 - 🌍 **Traveling**  
